@@ -54,6 +54,8 @@ dd {
 
 .details {
     order: 1;
+    font-size: 20px;
+    font-weight: bold;
 }
 
 /* Show the price of each item in a large font, in the color named 'firebrick' */
