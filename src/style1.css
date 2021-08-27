@@ -40,10 +40,7 @@ h2 {
 }
 
 /* Make the name of each menu item appear in bold in a 20px size. */
-dt {
-    font-weight: bold;
-    font-size: 20px;
-}
+
 
 
 dd {
